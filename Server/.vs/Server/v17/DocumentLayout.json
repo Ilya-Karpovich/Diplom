@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DIPLOM\\src\\Diplom\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8BC93-EDAE-436B-829C-52A2728D8F3D}|Server.csproj|d:\\diplom\\src\\diplom\\server\\entity\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8BC93-EDAE-436B-829C-52A2728D8F3D}|Server.csproj|solutionrelative:entity\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FE388-5B24-41D1-96A2-45BC96CD6AEC}|..\\DecanatClient\\DecanatClient.csproj|d:\\diplom\\src\\diplom\\decanatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FE388-5B24-41D1-96A2-45BC96CD6AEC}|..\\DecanatClient\\DecanatClient.csproj|d:\\diplom\\src\\diplom\\decanatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\DIPLOM\\src\\Diplom\\Server\\Entity\\News.cs",
+              "RelativeDocumentMoniker": "Entity\\News.cs",
+              "ToolTip": "D:\\DIPLOM\\src\\Diplom\\Server\\Entity\\News.cs",
+              "RelativeToolTip": "Entity\\News.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:04:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DIPLOM\\src\\Diplom\\DecanatClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\DecanatClient\\MainWindow.xaml",
+              "ToolTip": "D:\\DIPLOM\\src\\Diplom\\DecanatClient\\MainWindow.xaml",
+              "RelativeToolTip": "..\\DecanatClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T15:53:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DIPLOM\\src\\Diplom\\DecanatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DecanatClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\DIPLOM\\src\\Diplom\\DecanatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\DecanatClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:53:28.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

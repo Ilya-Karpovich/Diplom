@@ -1,0 +1,15 @@
+D:\DIPLOM\src\Diplom\DecanatClient\bin\Debug\DecanatClient.exe.config
+D:\DIPLOM\src\Diplom\DecanatClient\bin\Debug\DecanatClient.exe
+D:\DIPLOM\src\Diplom\DecanatClient\bin\Debug\DecanatClient.pdb
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.csproj.AssemblyReference.cache
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\MainWindow.g.cs
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\App.g.cs
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient_MarkupCompile.cache
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient_MarkupCompile.lref
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\MainWindow.baml
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.g.resources
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.Properties.Resources.resources
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.csproj.GenerateResource.cache
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.csproj.CoreCompileInputs.cache
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.exe
+D:\DIPLOM\src\Diplom\DecanatClient\obj\Debug\DecanatClient.pdb
